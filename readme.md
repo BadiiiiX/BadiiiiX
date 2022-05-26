@@ -2,9 +2,9 @@
 
 ## Presentation
 
-> My name is Mehdi, 19 years old, I have been programming for more than 5 years just to be able to touch the magic of code 🧙‍♂️ \
+> My name is Mehdi, 19 years old, I have been programming for more than 5 years just to be able to touch the magic of code 🧙‍♂️
 
-> Totally fan of WEB development, my FullStack side leads me to like most languages and allows me to adapt in most sectors 💪 \
+> Totally fan of WEB development, my FullStack side leads me to like most languages and allows me to adapt in most sectors 💪
 
 > I remain a lover of TypeScript, when it is coupled with ReactJs for the front and obviously NodeJS for the back 😎
 
