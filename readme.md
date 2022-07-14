@@ -15,15 +15,15 @@
 
 - Website, Windows-98 like 
 
-[![BDE Website](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-WEBSITE)](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-WEBSITE)
+[![BDE Website](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-WEBSITE)](https://github.com/BadiiiiX/BDE-WEBSITE)
 
 - API, University Calandar
 
-[![API CALANDAR](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-CALANDAPI)](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-CALANDAPI)
+[![API CALANDAR](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-CALANDAPI)](https://github.com/BadiiiiX/BDE-CALANDAPI)
 
 - Portefolio, University Project
 
-[![IUT PORTFOLIO](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=IUT-Portfolio-Project)](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=IUT-Portfolio-Project)
+[![IUT PORTFOLIO](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=IUT-Portfolio-Project)](https://github.com/BadiiiiX/IUT-Portfolio-Project)
 
 > Feel free to look at the projects pinned to see more!
 
@@ -31,3 +31,11 @@
 
 - [![STATS](https://github-readme-stats.vercel.app/api?username=BadiiiiX&theme=dark&show_icons=true)](https://github-readme-stats.vercel.app/api?username=BadiiiiX&theme=dark&show_icons=true)
 - [![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=BadiiiiX&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=BadiiiiX&layout=compact)
+
+## Contact
+
+For any project or job offer, do not hesitate to contact me through these social networks:
+
+- [E-mail](mailto:contact@mehdi.dev)
+- [LinkedIn](https://www.linkedin.com/in/mehdi-ali-it/)
+- Discord: Badiiix#0808
