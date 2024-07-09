@@ -13,17 +13,17 @@
 
 > Here are the repo that I have been able to do, between school and personal projects, here is a set of what I can do!
 
-- Website, Windows-98 like 
+- Hex Game, University Project
 
-[![BDE Website](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-WEBSITE)](https://github.com/BadiiiiX/BDE-WEBSITE)
+[![Hex Game](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=IUT-JAVA-Hex-Project)](https://github.com/BadiiiiX/IUT-JAVA-Hex-Project)
 
-- API, University Calandar
+- Descolar, Social network, University Project
 
-[![API CALANDAR](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=BDE-CALANDAPI)](https://github.com/BadiiiiX/BDE-CALANDAPI)
+[![Descolar](https://github-readme-stats.vercel.app/api/pin/?username=3mty-team&repo=Descolar&show_owner=true)](https://github.com/3mty-team/Descolar)
 
-- Portefolio, University Project
+- Cosmic Clicker, Clicker Game, University Project
 
-[![IUT PORTFOLIO](https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=IUT-Portfolio-Project)](https://github.com/BadiiiiX/IUT-Portfolio-Project)
+[![Cosmic Clicker](https://github-readme-stats.vercel.app/api/pin/?username=ChoumaxGames&repo=Cosmic-clicker&show_owner=true)](https://github.com/ChoumaxGames/Cosmic-clicker)
 
 > Feel free to look at the projects pinned to see more!
 
@@ -37,5 +37,5 @@
 For any project or job offer, do not hesitate to contact me through these social networks:
 
 - [E-mail](mailto:contact@mehdi.dev)
-- [LinkedIn](https://www.linkedin.com/in/mehdi-ali-it/)
-- Discord: Badiiix#0808
+- [LinkedIn](https://www.linkedin.com/in/mehdi-ali-bdx/)
+- Discord: BadiiiX
