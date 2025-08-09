@@ -4,7 +4,11 @@
 💡 **Mehdi**, 22 years old — **8+ years** of coding experience.  
 🧙‍♂️ I started programming to explore the *magic* of code and never stopped.  
 💻 **FullStack Developer** — adaptable to most languages & industries. 
-🏗️ Passionate about software architecture and project refactoring, I love taking existing codebases and turning them into robust, scalable systems.
+🏗️ Passionate about software architecture and project refactoring 
+
+<p align="middle">
+  <b>❤️ I love taking existing codebases and turning them into robust, scalable systems.</b>
+</p>
 
 ---
 
