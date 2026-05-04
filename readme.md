@@ -1,84 +1,68 @@
-# Hi there 👋
+<div align="center">
 
-## 👨‍💻 About Me
-💡 **Mehdi**, 22 years old — **8+ years** of coding experience.  
-🧙‍♂️ I started programming to explore the *magic* of code and never stopped.  
-💻 **FullStack Developer** — adaptable to most languages & industries. 
-🏗️ Passionate about software architecture and project refactoring 
+# hey, I'm Mehdi 👋
 
-<p align="middle">
-  <b>❤️ I love taking existing codebases and turning them into robust, scalable systems.</b>
-</p>
+**Founder @ [Recurthink](https://recurth.ink) · FullStack Developer · 9+ years coding**
 
----
+[![Email](https://img.shields.io/badge/contact%40mehdi--ali.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@mehdi-ali.dev)
+[![Website](https://img.shields.io/badge/recurth.ink-000000?style=flat-square&logo=cockpit&logoColor=white)](https://recurth.ink)
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/BadiiiiX/IUT-JAVA-Hex-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BadiiiiX&repo=IUT-JAVA-Hex-Project&theme=radical" />
-</a>
-<p>🎯 University project — Implementation of the **Hex board game** in Java.</p>
-</td>
-<td>
-<a href="https://github.com/3mty-team/Descolar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=3mty-team&repo=Descolar&show_owner=true&theme=radical" />
-</a>
-<p>🌐 Social network platform — University group project.</p>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/ChoumaxGames/Cosmic-clicker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoumaxGames&repo=Cosmic-clicker&show_owner=true&theme=radical" />
-</a>
-<p>🚀 Clicker game — Incremental gameplay mechanics & economy balancing.</p>
-</td>
-<td>
-<!-- Tu peux rajouter un 4e projet ici -->
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## ⚡ Skills
+## 🧠 About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,cs,c,rust,python" height="45" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue" height="45" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun" height="45" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45" />
-</p>
-<br />
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="45" />
-</p>
+23 y/o, Started coding out of pure curiosity, and never really stopped.  
+Today I build products and consult at **Recurthink**, obsessing over architecture, refactoring, and systems that scale.
+
+- 🏗️ I love inheriting messy codebases and turning them into clean, maintainable systems
+- 📐 SOLID principles aren't just theory => they're a reflex
+- 🌍 Based in France, building for the web (and sometimes beyond)
+
+---
+
+## 🚀 Academic Projects
+
+| Project | Description |
+|---|---|
+| [**IUT-JAVA-Hex-Project**](https://github.com/BadiiiiX/IUT-JAVA-Hex-Project) | 🎯 Hex board game in Java - AI, game logic, UI |
+| [**Descolar**](https://github.com/3mty-team/Descolar) | 🌐 Social network platform - university group project |
+| [**Cosmic Clicker**](https://github.com/ChoumaxGames/Cosmic-clicker) | 🚀 Incremental clicker - economy balancing & progression systems |
+
+---
+
+## ⚙️ Stack
+
+**Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Runtime**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
+**Data**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BadiiiiX&show_icons=true&theme=radical" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadiiiiX&layout=compact&theme=radical" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BadiiiiX&theme=radical" height="165" />
-</p>
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BadiiiiX&theme=radical&hide_border=true&area=true)](https://github.com/BadiiiiX)
+
+![Profile views](https://komarev.com/ghpvc/?username=BadiiiiX&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
-## 📬 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-contact%40mehdi.dev-red?style=for-the-badge&logo=gmail)](mailto:contact@mehdi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehdi%20Ali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehdi-ali-bdx/)
-![Discord](https://img.shields.io/badge/Discord-BadiiiX-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
----
+<div align="center">
+  <sub>SRP · OCP · LSP · ISP · DIP enjoyer 💖</sub>
+</div>
