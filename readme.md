@@ -5,57 +5,76 @@
 **Founder @ [Recurthink](https://recurth.ink) · FullStack Developer · 9+ years coding**
 
 [![Email](https://img.shields.io/badge/contact%40mehdi--ali.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@mehdi-ali.dev)
-[![Website](https://img.shields.io/badge/recurth.ink-000000?style=flat-square&logo=cockpit&logoColor=white)](https://recurth.ink)
+[![Website](https://img.shields.io/badge/recurth.ink-000000?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://recurth.ink)
+[![GitHub](https://img.shields.io/badge/@BadiiiiX-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BadiiiiX)
 
 </div>
 
 ---
 
-## 🧠 About
+## 🧠 About me
 
-23 y/o, Started coding out of pure curiosity, and never really stopped.  
-Today I build products and consult at **Recurthink**, obsessing over architecture, refactoring, and systems that scale.
+23 y/o developer from France.
 
-- 🏗️ I love inheriting messy codebases and turning them into clean, maintainable systems
-- 📐 SOLID principles aren't just theory => they're a reflex
-- 🌍 Based in France, building for the web (and sometimes beyond)
+I started coding because I was curious about how things worked, then somehow never stopped.
+
+These days, I build products at **Recurthink**, work on side projects, break things, refactor them, and occasionally spend way too much time trying to make code feel *right*.
+
+- 🏗️ I genuinely enjoy turning messy codebases into cleaner ones
+- 🧩 Architecture, refactoring and code quality are my favorite rabbit holes
+- 📐 SOLID principles enjoyer
+- 🐛 Professional bug creator & part-time bug fixer
+- 🌍 Based in France, building mostly for the web
+- ☕ Probably overthinking a class name right now
 
 ---
 
-## 🚀 Academic Projects
+## 🚀 Some *academic* projects
 
-| Project | Description |
+| Project | What it is |
 |---|---|
-| [**IUT-JAVA-Hex-Project**](https://github.com/BadiiiiX/IUT-JAVA-Hex-Project) | 🎯 Hex board game in Java - AI, game logic, UI |
-| [**Descolar**](https://github.com/3mty-team/Descolar) | 🌐 Social network platform - university group project |
-| [**Cosmic Clicker**](https://github.com/ChoumaxGames/Cosmic-clicker) | 🚀 Incremental clicker - economy balancing & progression systems |
+| [**IUT-JAVA-Hex-Project**](https://github.com/BadiiiiX/IUT-JAVA-Hex-Project) | 🎯 A Hex board game in Java with AI, game logic and UI |
+| [**Descolar**](https://github.com/3mty-team/Descolar) | 🌐 A social network built as a university group project |
+| [**Cosmic Clicker**](https://github.com/ChoumaxGames/Cosmic-clicker) | 🚀 An incremental clicker focused on progression and economy balancing |
 
 ---
 
-## ⚙️ Stack
+## ⚙️ Things I use
 
-**Languages**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+### Languages
 
-**Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Backend & Runtime**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+### Frontend
 
-**Data**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Infra**
+### Backend & runtime
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
+### Data & infra
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stuff
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BadiiiiX&theme=radical&hide_border=true&area=true)](https://github.com/BadiiiiX)
+![GitHub Streak](https://streak-stats.demolab.com?user=BadiiiiX&theme=tokyonight&hide_border=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=BadiiiiX&color=blueviolet&style=flat-square)
 
@@ -64,5 +83,11 @@ Today I build products and consult at **Recurthink**, obsessing over architectur
 ---
 
 <div align="center">
-  <sub>SRP · OCP · LSP · ISP · DIP enjoyer 💖</sub>
+
+<sub>SRP · OCP · LSP · ISP · DIP enjoyer 💖</sub>
+
+<br/>
+
+<sub>also capable of violating all five at 2am</sub>
+
 </div>
