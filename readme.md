@@ -85,9 +85,6 @@ These days, I build products at **Recurthink**, work on side projects, break thi
 <div align="center">
 
 <sub>SRP · OCP · LSP · ISP · DIP enjoyer 💖</sub>
-
-<br/>
-
-<sub>also capable of violating all five at 2am</sub>
+<sub>also capable of violating all five at 2am 😩</sub>
 
 </div>
